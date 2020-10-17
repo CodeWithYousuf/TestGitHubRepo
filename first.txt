@@ -1,3 +1,5 @@
 first github entry.
 changes done in local repo.
 Changes done from Online.
+
+Changes done  in Smart Git Locally 
